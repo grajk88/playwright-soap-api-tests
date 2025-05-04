@@ -69,3 +69,7 @@ npx playwright test tests/soapAdd.test.ts
 ## 📦 Author
 
 Created with ❤️ using Playwright, Faker, and Excel integration.
+
+---
+
+🛠 Developed by **Giridhar Rajkumar**
