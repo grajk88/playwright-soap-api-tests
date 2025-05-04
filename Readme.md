@@ -63,7 +63,7 @@ Create a file at `templates/addRequestTemplate.xml` with the following content:
 ### 4. Run the Test
 
 ```bash
-npx playwright test tests/soapAdd.test.ts
+npx playwright test
 ```
 
 ## 📦 Author
